@@ -12,6 +12,7 @@
 		187AB30E1F1748E200B73BA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187AB30C1F1748E200B73BA7 /* Main.storyboard */; };
 		187AB3101F1748E200B73BA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 187AB30F1F1748E200B73BA7 /* Assets.xcassets */; };
 		187AB3131F1748E200B73BA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187AB3111F1748E200B73BA7 /* LaunchScreen.storyboard */; };
+		187AB31B1F174A1D00B73BA7 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187AB31A1F174A1D00B73BA7 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		187AB30F1F1748E200B73BA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		187AB3121F1748E200B73BA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		187AB3141F1748E200B73BA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		187AB31A1F174A1D00B73BA7 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				187AB30F1F1748E200B73BA7 /* Assets.xcassets */,
 				187AB3111F1748E200B73BA7 /* LaunchScreen.storyboard */,
 				187AB3141F1748E200B73BA7 /* Info.plist */,
+				187AB31A1F174A1D00B73BA7 /* ResultViewController.swift */,
 			);
 			path = "stone paper scissor";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			files = (
 				187AB30B1F1748E200B73BA7 /* ViewController.swift in Sources */,
 				187AB3091F1748E200B73BA7 /* AppDelegate.swift in Sources */,
+				187AB31B1F174A1D00B73BA7 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
